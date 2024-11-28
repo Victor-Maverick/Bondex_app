@@ -30,7 +30,7 @@ export default function Navbar() {
                     <Link href={'/staking'}>
                         <p className="hover:text-white text-[#78d1e1]">Staking</p>
                     </Link>
-                    <Link href={'/'}>
+                    <Link href={'/community'}>
                         <p className="hover:text-white text-[#78d1e1]">Community</p>
                     </Link>
                 </div>
